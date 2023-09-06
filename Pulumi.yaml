@@ -1,0 +1,3 @@
+name: demo-infra
+runtime: nodejs
+description: demo IAC for pulumi
